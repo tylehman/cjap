@@ -1,0 +1,17 @@
+{% extends 'about/header.html' %}
+{% block content %}
+<div class="row">
+  <div class="container-fluid">
+    <div class="panel panel-default" >
+      <div class="panel-heading">
+        <h3> Job = {{ jobinfo.job_title }} </h3>
+      </div>
+      <div class="panel-body">
+        <h4> Job Type = {{jobinfo.job_search}} </h4>
+        <h4> The listed position can be found at the link below: (Copy and paste into the browser!)</h4>
+        <h4> {{jobinfo.job_link}} </h4>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

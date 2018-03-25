@@ -1,0 +1,109 @@
+{% extends 'site_base.html' %}
+
+{% load i18n %}
+{% load staticfiles %}
+
+
+{% load widget_tweaks %}
+{% block content %}
+
+      <div class="container-fluid">
+        <h2 class='well' style="background: radial-gradient(circle, rgba(153, 204, 255, 0.5), rgba(75, 232, 238, 0.8))">
+          Available Jobs |
+        <small class='black_font'> Enter the info for the job you're looking for! </small>
+        </h2>
+        <h2>
+          <form method="get">
+            <div class="well" style="background: radial-gradient(circle, rgba(153, 204, 255, 0.5), rgba(75, 232, 238, 0.8))">
+              <div class="row>">
+                {% for field in filter.form.visible_fields %}
+                  <div class="form-group">
+                    <label for="{{ field.id_for_label }}">{{ field.label }}</label>
+                    {{ field|add_class:'form-control' }}
+                    {% for error in field.errors %}
+                      <span class="help-block">{{ error }}</span>
+                    {% endfor %}
+                  </div>
+                {% endfor %}
+                <!-- {{ filter.form.as_p }} -->
+                <button class="orange-w3-theme-d2" type="submit" class="btn btn-primary">
+                  <span class="buttonSearch">Search</span>
+                </button>
+              </div>
+            </div>
+          </form>
+        </h2>
+    </div>
+{% endblock %}
+
+{% block table %}
+<div>
+<table  class='table table-striped' class='board' class="table table-hover">
+  <tr>
+    <th class='bolding'> Job Title </th>
+    <th class='bolding'> Company </th>
+  </tr>
+    {% for job in filter.qs %}
+    <tr>
+      <th>
+        <div class="well" style="color:#fff; background-color:#97e6f5">
+          <a href= "/find_job/{{job.id}}" style="text-align: left">
+            {{job.job_title}}
+          </a>
+        </div>
+            {{job.job_addr}}
+      </th>
+      <th>
+        <div class="well" style="color:#fff; background-color:#0e7d93">
+            {{job.comp_name}}
+        </div>
+        <div>
+          {{job.job_posted}} = posted date.
+        </div>
+      </th>
+    {% endfor %}
+  </tr>
+</table>
+</div>
+{% include "find_job/find_job_paginate.html" %}
+<!--
+<div class="pagination">
+  <span class="step-links">
+    {% if page_obj.has_previous %}
+    <a href="?page={{ page_obj.previous_page_number }}{% for key,value in request.GET.items %}{% ifnotequal key 'page' %}&{{ key }}={{ value }}{% endifnotequal %}{% endfor %}">previous</a>
+    {% endif %}
+
+    <span class="current">
+      Page {{ page_obj.number }} of {{ paginator.num_pages }}.
+    </span>
+
+    {% if page_obj.has_next %}
+    <a href="?page={{ page_obj.next_page_number }}{% for key,value in request.GET.items %}{% ifnotequal key 'page' %}&{{ key }}={{ value }}{% endifnotequal %}{% endfor %}">next</a>
+    {% endif %}
+  </span>
+</div> -->
+<!--
+{% if is_paginated %}
+  <ul class="pagination">
+    <span class="step-links">
+    {% if page_obj.has_previous %}
+      <li><a href="?page={{ page_obj.previous_page_number }}">&laquo;</a></li>
+    {% else %}
+      <li class="disabled"><span>&laquo;</span></li>
+    {% endif %}
+    {% for i in paginator.page_range %}
+      {% if page_obj.number == i %}
+        <li class="active"><span>{{ i }} <span class="sr-only">(current)</span></span></li>
+      {% else %}
+        <li><a href="?page={{ i }}">{{ i }}</a></li>
+      {% endif %}
+    {% endfor %}
+    {% if page_obj.has_next %}
+      <li><a href="?page={{ page_obj.next_page_number }}">&raquo;</a></li>
+    {% else %}
+      <li class="disabled"><span>&raquo;</span></li>
+    {% endif %}
+    </span>
+  </ul>
+{% endif %} -->
+{% endblock %}

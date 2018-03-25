@@ -1,0 +1,55 @@
+{% extends 'jobs.html' %}
+
+{% block table %}
+<div>
+<table  class='table table-striped' class='board' class="table table-hover">
+  <tr>
+    <th class='bolding'> Job Title </th>
+    <th class='bolding'> Company </th>
+  </tr>
+  {% for job in jobs %}
+    <tr>
+      <th>
+        <div class="well" style="color:#fff; background-color:#97e6f5">
+            <a href= "/jobs/{{job.id}}" style="text-align: left">
+              {{job.job_title}}
+            </a>
+        </div>
+            {{job.job_addr}}
+      </th>
+      <th>
+        <div class="well" style="color:#fff; background-color:#0e7d93">
+            {{job.comp_name}}
+        </div>
+        <div>
+          {{job.job_posted}} = posted date.
+        </div>
+      </th>
+    {% endfor %}
+  </tr>
+</table>
+</div>
+
+{% if is_paginated %}
+  <ul class="pagination">
+    {% if page_obj.has_previous %}
+      <li><a href="?page={{ page_obj.previous_page_number }}">&laquo;</a></li>
+    {% else %}
+      <li class="disabled"><span>&laquo;</span></li>
+    {% endif %}
+    {% for i in paginator.page_range %}
+      {% if page_obj.number == i %}
+        <li class="active"><span>{{ i }} <span class="sr-only">(current)</span></span></li>
+      {% else %}
+        <li><a href="?page={{ i }}">{{ i }}</a></li>
+      {% endif %}
+    {% endfor %}
+    {% if page_obj.has_next %}
+      <li><a href="?page={{ page_obj.next_page_number }}">&raquo;</a></li>
+    {% else %}
+      <li class="disabled"><span>&raquo;</span></li>
+    {% endif %}
+  </ul>
+{% endif %}
+
+{% endblock %}

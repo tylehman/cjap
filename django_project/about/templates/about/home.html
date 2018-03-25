@@ -1,0 +1,47 @@
+{% extends 'about/header.html' %}
+{% block content %}
+
+<!-- <div class= "row">
+   <div class="container-fluid">
+     <div class="well">
+       <form action="/your-name/" method="post">
+         <label for="your_name"> Your name: </label>
+         <input id="your_name" type="text" name="your_name" value="{{ current_name }}">
+           {% csrf_token %}
+           {{ form }}
+         <input type="submit" value="ok">
+       </form>
+     </div>
+    </div>
+</div> -->
+
+  <div class="container-fluid">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h2> This site is designed to help individulas FIND Jobs. </h2>
+      </div>
+      <div class="panel-body">
+        <h2> Why use Colorado Job Assistant Program? </h2>
+          <ol>
+            <li> Efficient: </li>
+              <ul>
+                <li> Thousands of jobs are pulled daily in one spot </li>
+              </ul>
+            <li> Time Saving:</li>
+              <ul>
+                <li> Less time spent searching different websites and finding the jobs</li>
+              </ul>
+            <li> Easy to Use:</li>
+              <ul>
+                <li> The search narrows results down for only jobs you want to see </li>
+              </ul>
+            <li> Quickly Find the Job Details:</li>
+              <ul>
+                <li> Links and information to find the job info are provided </li>
+              </ul>
+          </ol>
+      </div>
+    </div>
+  </div>
+
+{% endblock %}

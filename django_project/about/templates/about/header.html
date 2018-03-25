@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title class="body">
+    </title>
+  <meta charset="utf-8" />
+  {% load staticfiles %}
+  <link rel="stylesheet" href="{% static 'about/css/bootstrap.min.css' %}"type="text/css">
+  <meta name="viewport" content = "width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{% static 'about/css/cjap.css' %}" type="text/css">
+
+  <style type="text/css">
+    html,
+    body {
+      height:100%
+    }
+    a:link {color: rgb(0, 96, 255)}
+    a:visited {color: rgba(180, 29, 29, 0.8)}
+    a:hover {color: rgba(100, 200, 45, 0.8)}
+    a:active {color: rgb(255, 0, 102)}
+  </style>
+</head>
+
+<body class="body" style="background: radial-gradient(circle, rgba(14, 125, 147, 0.8), rgba(186, 238, 249, 0.9))">
+ <div class="container-fluid" style="min-height:95%; ">
+   <div class='jumbotron' style="background-image: url('{% static "about/img/jade.jpg" %}');">
+   <div class = "row">
+     <div class = "col-sm-6">
+       <br>
+       <center>
+         <!-- <div class="container">
+           <div class="row" style="text-align: center;">
+             {% if user.is_authenticated %}
+             <a class="btn btn-primary" id="account_logout" href="{% url 'account_logout' %}">
+             {% else %}
+              <div class="col-md-8 navboard">
+                <a class="btn btn-primary" href="{% url 'account_login' %}">
+              </div>
+              <div class="col-md-8 navboard">
+                <a class="btn btn-primary" href="{% url 'account_signup' %}">
+              </div>
+              {% endif %}
+            </div>
+          </div> -->
+       </center>
+     </div>
+     <div class = "col-sm-6">
+       <br>
+       <center>
+         <h1 class="right">Colorado Job Assistance Program</h1>
+       </center>
+     </div>
+   </div>
+   </div><hr>
+   <div class="row">
+     <!-- <div class="col-sm-2">
+       <br>
+       <br>
+         <div class="well bs-sidebar" id="sidebar" class='board'
+              style="background: radial-gradient(circle, rgba(153, 204, 255, 0.5), rgba(75, 232, 238, 0.8))">
+           <ul class="nav nav-pils nav-stacked">
+             <li class="navboard"><a class="navlogs" href = '/'>Home</a></li>
+             <li class="navboard"><a class="navlogs" href = '/find_job/'>Find A Job</a></li>
+             <li class="navboard"><a class="navlogs" href = '/jobs/'>Jobs</a></li>
+             <li class="navboard"><a class="navlogs" href = '/contact/'>Contact</a></li>
+           </ul>
+         </div>
+       </div> -->
+     <!-- <div class='container-fluid'> -->
+     <div class="col-sm-10">
+       <br><br>
+       {% block content %}
+       {% endblock %}
+     </div>
+   <!-- </div> -->
+ </div>
+ {% block table %}
+ {% endblock %}
+</footer>
+<div class="row">
+  <div class="col-sm-2">
+    <div class="container-fluid" style='margin-left:15px'>
+       <div style="background: radial-gradient(circle, rgba(153, 204, 255, 0.5), rgba(75, 232, 238, 0.8))">
+         <p><a href='/contact/'>Contact</a> | <a href='/jobs/'>Jobs</a></p>
+       </div>
+    </div>
+  </div>
+  <div class="col-sm-10">
+  </div>
+</div>
+</div>
+
+</footer>
+</body>
+
+</html>

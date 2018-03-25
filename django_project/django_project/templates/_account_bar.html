@@ -1,0 +1,30 @@
+{% load i18n %}
+{% load account_tags %}
+
+  {% if request.user.is_authenticated %}
+    {% user_display request.user %}
+      <a class="btn btn-primary" href="{% url 'account_settings' %}">
+        {% trans "Settings" %}
+      </a>
+      <a class="btn btn-primary" id="account_logout" href="{% url 'account_logout' %}">
+        {% trans "Log out" %}
+      </a>
+  {% else %}
+    <a class="btn btn-primary" href="{% url 'account_login' %}">
+      {% trans "Log In" %}
+    </a>
+      {% if ACCOUNT_OPEN_SIGNUP %}
+    <a class="btn btn-primary" href="{% url 'account_signup' %}">
+      {% trans "Sign up" %}
+    </a>
+      {% endif %}
+  {% endif %}
+  <a class="btn btn-primary" href="{% url 'all_jobs' %}">Jobs
+  </a>
+  <a class="btn btn-primary" href="{% url 'find_job' %}">Job Search
+  </a>
+
+
+<form id="accountLogOutForm" style="display: none;" action="{% url 'account_logout' %}" method="POST">
+    {% csrf_token %}
+</form>
