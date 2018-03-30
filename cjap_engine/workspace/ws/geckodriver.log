@@ -2905,3 +2905,30 @@ Full stack:
 
 ###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
 
+1522113191367	geckodriver	INFO	Listening on 127.0.0.1:61693
+1522113192301	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.H5DuDXw8U7dv
+1522113192326	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1522113192383	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61700
+1522113196760	Marionette	INFO	Listening on port 61700
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: http://159.89.130.137/account/login/, line 188: ReferenceError: $ is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************

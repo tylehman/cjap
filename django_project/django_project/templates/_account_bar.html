@@ -2,9 +2,8 @@
 {% load account_tags %}
 
   {% if request.user.is_authenticated %}
-    {% user_display request.user %}
       <a class="btn btn-primary" href="{% url 'account_settings' %}">
-        {% trans "Settings" %}
+        {% user_display request.user %}
       </a>
       <a class="btn btn-primary" id="account_logout" href="{% url 'account_logout' %}">
         {% trans "Log out" %}

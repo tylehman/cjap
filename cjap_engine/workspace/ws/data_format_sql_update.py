@@ -133,6 +133,23 @@ def dateStd(df):
 
 df = dateStd(df)
 
+df['job_posted'] = pd.to_datetime(df['job_posted'], yearfirst=True, errors='coerce', infer_datetime_format=True)
+
+df = df.replace({r'(AM)$': r' '}, regex=True)
+
+
+
+def remove_dup():
+    df_fin = df.drop_duplicates()
+    return df_fin
+
+
+with pd.ExcelWriter('/Users/tylehman/Desktop/caws/all_job_data.xlsx') as writer:
+    remove_dup().to_excel(writer, sheet_name='Raw Data')
+    writer.save()
+
+
+
 df.to_csv('/Users/tylehman/Desktop/Job Analytics/formated_date.csv', encoding='utf-8')
 print df
 end = time.time()

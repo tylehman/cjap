@@ -12,6 +12,8 @@ urlpatterns = [
     url(r"^account/", include("account.urls")),
     url(r'^jobs/', include('jobs.urls')),
     url(r'^find_job/', include('find_job.urls')),
+    url(r"^about/", include("about.urls")),
+
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

@@ -5,21 +5,6 @@ from django.http import HttpResponseRedirect
 from .forms import NameForm
 from django.contrib.auth.decorators import login_required
 
-def index(request):
-    return render(request, 'about/home.html')
-
 def contact(request):
-    return render(request, 'about/basic.html')
+    return render(request, 'about/contact.html')
 
-def get_name(request):
-    if request.method == "POST":
-        form = NameForm(request.POST)
-        if form.is_valid():
-            return HttpResponseRedirect('/thanks/')
-    else:
-        form = NameForm()
-    return render(request, 'name.html', {'form': form})
-
-@login_required
-def home(request):
-    return render(request, 'about/home.html')
