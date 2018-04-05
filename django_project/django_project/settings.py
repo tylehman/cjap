@@ -104,7 +104,8 @@ DATABASES = {
     },
     'jobs_data': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'jobs.db'),
+        # 'NAME': os.path.join(BASE_DIR, 'jobs.db'),
+        'NAME': '/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/jobs.db',
     },
 }
 
@@ -181,7 +182,7 @@ import netifaces
 # Find out what the IP addresses are at run time
 # This is necessary because otherwise Gunicorn will reject the connections
 def ip_addresses():
-    ip_list = []
+    ip_list = ['coloradojobassistanceprogram.com', '159.89.130.137']
     for interface in netifaces.interfaces():
         addrs = netifaces.ifaddresses(interface)
         for x in (netifaces.AF_INET, netifaces.AF_INET6):

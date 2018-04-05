@@ -4,10 +4,10 @@ from bs4 import BeautifulSoup as Soup
 import datetime
 import time
 
-pd.set_option('max_colwidth', 500)
-df = pd.DataFrame()
-
 class Monster():
+
+    pd.set_option('max_colwidth', 500)
+    df = pd.DataFrame()
 
     base_url = ['https://www.monster.com/jobs/search/?q=construction&where=Denver__2C-CO&rad=100&sort=dt.rv.di&page=',
                 'https://www.monster.com/jobs/search/?q=food&where=Denver__2C-CO&sort=dt.rv.di&rad=100&page=',
@@ -56,5 +56,5 @@ class Monster():
     end = time.time()
     print "Monster = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')
 
-# MonsterPull = Monster()
-# print Monster.df
+MonsterPull = Monster()
+print Monster.df

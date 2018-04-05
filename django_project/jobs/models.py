@@ -22,7 +22,7 @@ class DjangoMigrations(models.Model):
 
 
 class JobInfo(models.Model):
-    id = models.IntegerField(blank=True, primary_key=True)
+    id = models.IntegerField(primary_key=True, null=False)
     job_title = models.CharField(max_length=50, blank=True, null=True)
     comp_name = models.CharField(max_length=50, blank=True, null=True)
     job_addr = models.CharField(max_length=50, blank=True, null=True)

@@ -61,8 +61,8 @@ class Indeed():
     end = time.time()
 
 #     print "Indeed = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')
-#
-#
+
+
 # IndeedPull = Indeed()
 # print Indeed.df
 # Indeed.df = Indeed.df.to_csv('/Users/tylehman/Desktop/indeed_COMP_NAME_CHECK.csv', encoding='utf-8', index=False)

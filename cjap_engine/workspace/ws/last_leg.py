@@ -34,6 +34,6 @@ pd.set_option('max_colwidth', 500)
 df = pd.DataFrame()
 df_set = [cb, bc, gh, l, cl, i, m]
 
-df = ConnectColoradoPull.df.append(df_set,ignore_index=True)
+df = ConnectColoradoPull.df.append(df_set, ignore_index=True)
 print df
-df = df.to_csv('/Users/tylehman/Desktop/last_leg.csv', encoding='utf-8', index=False)
+df = df.to_csv('/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/raw.csv', encoding='utf-8', index=False)

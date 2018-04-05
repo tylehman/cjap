@@ -16,20 +16,19 @@ class GhPhillips():
     driver = webdriver.Firefox(capabilities=caps)
     driver.get(base_url)
 
-    line = driver.find_elements_by_xpath('//div[@id="job_table"]/div[@class="row"]')
-
+    line = driver.find_elements_by_xpath('//div[@id="job_table"]//div[@class="row"]')
     for elem in line:
         comp_name = "GH Phipps Construction"
         try:
             job_title = elem.find_element_by_class_name("name").text
         except AttributeError:
             job_title = "null"
-        home_url = "http://gh-phipps-construction.careerplug.com"
-        job_link = "%s%s" % (home_url, elem.find_element_by_tag_name("a").get_attribute("href"))
+        home_url_2 = "/apps/new"
+        job_link = "%s%s" % ( elem.find_element_by_tag_name("a").get_attribute("href"), home_url_2)
         try:
             job_addr = elem.find_element_by_class_name("job-location.col-md-3").text
         except AttributeError:
-            addr = "null"
+            job_addr = "null"
         job_posted = "null"
         job_srch = "Construction"
 
@@ -42,7 +41,7 @@ class GhPhillips():
                         }, ignore_index=True)
 
     end = time.time()
-    print "GH Phillips = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')
-
-#ghclass = GhPhillips
-#print ghclass.df
+    # print "GH Phillips = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')
+#
+# ghclass = GhPhillips
+# print ghclass.df

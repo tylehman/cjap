@@ -51,7 +51,7 @@ class CraigsList():
     end = time.time()
     print "Craigs List = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')
 
-#
+
 # CraigsListPull = CraigsList()
 # print CraigsList.df
 # CraigsListPull.df.to_csv('/Users/tylehman/Desktop/Job Analytics/cl.csv', encoding='utf-8')

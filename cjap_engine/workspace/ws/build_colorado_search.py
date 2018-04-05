@@ -40,7 +40,7 @@ class BuildColorado():
                           'job_srch': job_srch
                             }, ignore_index=True)
         end = time.time()
-        print "Build Colorado = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')
+        # print "Build Colorado = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')
 
 
 # BuildColoradoPull = BuildColorado()

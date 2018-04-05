@@ -7,7 +7,7 @@ import string
 from dateutil import parser
 
 # Read in the Dataset
-inf = "/Users/tylehman/Desktop/Job Analytics/formated_date.csv"
+inf = "/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/formated_data.csv"
 df = pd.DataFrame()
 df = pd.read_csv(inf, header=None, index_col=None)
 df = df.drop(df.index[0])
@@ -20,10 +20,10 @@ df = df.drop(df.index[0])
 
 print df
 try:
-    os.remove('/Users/tylehman/Desktop/python/sqlite/jobs.db')
+    os.remove('/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/jobs.db')
 except:
     pass
-conn = sqlite3.connect('/Users/tylehman/Desktop/python/sqlite/jobs.db')
+conn = sqlite3.connect('/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/jobs.db')
 c = conn.cursor()
 
 c.execute(""" CREATE TABLE job_info

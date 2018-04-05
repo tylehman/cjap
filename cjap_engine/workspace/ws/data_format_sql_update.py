@@ -3,7 +3,7 @@ import time
 import datetime
 from dateutil import parser
 
-df = pd.read_csv('/Users/tylehman/Desktop/last_leg.csv')
+df = pd.read_csv('/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/raw.csv')
 
 df = df.replace({r' - ': '', r'(\[)': '', r']': ''}, regex=True)
 
@@ -144,13 +144,15 @@ def remove_dup():
     return df_fin
 
 
-with pd.ExcelWriter('/Users/tylehman/Desktop/caws/all_job_data.xlsx') as writer:
+with pd.ExcelWriter('/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/formated_data1.xlsx') as writer:
     remove_dup().to_excel(writer, sheet_name='Raw Data')
     writer.save()
 
+df1 = pd.read_excel('/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/formated_data1.xlsx')
+df1.to_csv('/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/formated_data1.csv', encoding='utf-8')
 
 
-df.to_csv('/Users/tylehman/Desktop/Job Analytics/formated_date.csv', encoding='utf-8')
+df.to_csv('/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/formated_data.csv', encoding='utf-8')
 print df
 end = time.time()
 print "end = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')

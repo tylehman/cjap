@@ -80,5 +80,6 @@ class Lowes():
     end = time.time()
     print "Lowes = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')
 
-    # LowesPull = Lowes()
+
+# LowesPull = Lowes()
 # print LowesPull.df
