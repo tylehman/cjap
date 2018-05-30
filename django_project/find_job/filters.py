@@ -8,7 +8,9 @@ class JobTitleFilter(django_filters.FilterSet):
     job_addr = django_filters.CharFilter(lookup_expr='icontains', label='Company Location')
     job_link = django_filters.CharFilter(lookup_expr='icontains', label='Additional Search Info')
     job_posted = django_filters.DateFilter(name='job_posted', label='Date Posted')
+    job_type = django_filters.CharFilter(lookup_expr='icontains', label='Job Category')
+
 
     class Meta:
         model = JobInfo
-        fields = ['job_title', 'comp_name', 'job_addr', 'job_link', 'job_posted',]
+        fields = ['job_title', 'comp_name', 'job_addr', 'job_link', 'job_posted', 'job_type',]

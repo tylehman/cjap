@@ -29,6 +29,7 @@ class JobInfo(models.Model):
     job_link = models.CharField(max_length=50, blank=True, null=True)
     job_posted = models.CharField(max_length=50, blank=True, null=True)
     job_search = models.CharField(max_length=50, blank=True, null=True)
+    job_type = models.CharField(max_length=50, blank=True, null=True)
 
     class Meta:
         managed = False
