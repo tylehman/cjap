@@ -5,7 +5,7 @@ from ghphillips_search import GhPhillips
 from lowes_search import Lowes
 from craigs_list_search import CraigsList
 from indeed_search import Indeed
-from connect_colorado_search import ConnectColorado
+#from connect_colorado_search import ConnectColorado
 from build_colorado_search import BuildColorado
 from monster_search import Monster
 from career_builder_search import CareerBuilder
@@ -17,7 +17,7 @@ GhphillipsPull = GhPhillips()
 LowesPull = Lowes()
 CraigsListPull = CraigsList()
 IndeedPull = Indeed()
-ConnectColoradoPull = ConnectColorado()
+#ConnectColoradoPull = ConnectColorado()
 BuildColoradoPull = BuildColorado()
 MonsterPull = Monster()
 CareerBuilderPull = CareerBuilder()
@@ -29,11 +29,13 @@ l = LowesPull.df
 cl = CraigsListPull.df
 i = IndeedPull.df
 m = MonsterPull.df
+#cc = ConnectColoradoPull.df
 
 pd.set_option('max_colwidth', 500)
 df = pd.DataFrame()
-df_set = [cb, bc, gh, l, cl, i, m]
+#df_set = [cc, bc, gh, l, cl, i, m]
+df_set = [cb, gh, l, cl, i, m]
 
-df = ConnectColoradoPull.df.append(df_set, ignore_index=True)
-print df
+df = bc.append(df_set, ignore_index=True)
+# print df
 df = df.to_csv('/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/raw.csv', encoding='utf-8', index=False)

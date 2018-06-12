@@ -49,7 +49,7 @@ class CraigsList():
                                 'job_srch': job_srch
                                 }, ignore_index=True)
     end = time.time()
-    print "Craigs List = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')
+#     print "Craigs List = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')
 
 
 # CraigsListPull = CraigsList()

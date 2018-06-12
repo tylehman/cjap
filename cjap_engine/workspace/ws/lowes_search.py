@@ -78,7 +78,7 @@ class Lowes():
 
     df = df[df.job_addr != "null"]
     end = time.time()
-    print "Lowes = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')
+    # print "Lowes = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')
 
 
 # LowesPull = Lowes()

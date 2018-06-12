@@ -5903,3 +5903,914 @@ A coding exception was thrown and uncaught in a Task.
 Full message: TypeError: NetworkError when attempting to fetch resource.
 Full stack: 
 *************************
+1523830566100	geckodriver	INFO	Listening on 127.0.0.1:59866
+1523830566873	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.EMV9Z0YJbhOj
+1523830566888	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1523830566926	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59873
+1523830570331	Marionette	INFO	Listening on port 59873
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1523832522048	geckodriver	INFO	Listening on 127.0.0.1:62019
+1523832523006	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.Lcql5yQREBMw
+1523832523011	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1523832523040	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62026
+1523832525897	Marionette	INFO	Listening on port 62026
+1523832572973	geckodriver	INFO	Listening on 127.0.0.1:63532
+1523832573893	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.VbOb6YySke3S
+1523832573896	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1523832573940	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63539
+1523832574800	Marionette	INFO	Listening on port 63539
+1523832621004	geckodriver	INFO	Listening on 127.0.0.1:64989
+1523832621963	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.TplzDRoGDXtd
+1523832621967	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1523832621997	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64996
+1523832626317	Marionette	INFO	Listening on port 64996
+1523832673914	geckodriver	INFO	Listening on 127.0.0.1:50145
+1523832674825	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.TWqyIuguhMXK
+1523832674829	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1523832674859	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50152
+1523832677844	Marionette	INFO	Listening on port 50152
+1523832725327	geckodriver	INFO	Listening on 127.0.0.1:51650
+1523832726276	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.GvvSOxORd6WG
+1523832726280	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1523832726310	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51657
+1523832729350	Marionette	INFO	Listening on port 51657
+1523832777829	geckodriver	INFO	Listening on 127.0.0.1:53174
+1523832778860	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.AbkFubqtt5FD
+1523832778922	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1523832779141	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53181
+1523832784262	Marionette	INFO	Listening on port 53181
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1524352646730	geckodriver	INFO	Listening on 127.0.0.1:62618
+1524352647630	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.jX15zHkTDjhb
+1524352647634	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1524352647672	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62625
+1524352652165	Marionette	INFO	Listening on port 62625
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1524415768592	geckodriver	INFO	Listening on 127.0.0.1:64893
+1524415769625	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.Tc8Q0ZZ0EHmQ
+1524415769629	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1524415769659	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64900
+1524415772960	Marionette	INFO	Listening on port 64900
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1524417265384	geckodriver	INFO	Listening on 127.0.0.1:49278
+1524417266322	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.UXYo1D3wb7HM
+1524417266326	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1524417266356	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49285
+1524417269243	Marionette	INFO	Listening on port 49285
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1524419011869	geckodriver	INFO	Listening on 127.0.0.1:51679
+1524419012904	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.KCIHGN2lLzF1
+1524419012908	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1524419012938	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51686
+1524419016343	Marionette	INFO	Listening on port 51686
+1524419063740	geckodriver	INFO	Listening on 127.0.0.1:53187
+1524419064699	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.0VcpZpmcQbio
+1524419064704	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1524419064733	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53194
+1524419069401	Marionette	INFO	Listening on port 53194
+1524419118561	geckodriver	INFO	Listening on 127.0.0.1:54760
+1524419119295	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.CKXQ4xa5oCA0
+1524419119297	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1524419119318	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54767
+1524419122647	Marionette	INFO	Listening on port 54767
+1524419171434	geckodriver	INFO	Listening on 127.0.0.1:56280
+1524419172368	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.bmpJY5bXqa4y
+1524419172373	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1524419172403	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56287
+1524419175677	Marionette	INFO	Listening on port 56287
+1524419226909	geckodriver	INFO	Listening on 127.0.0.1:57863
+1524419227809	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.URmOdp5sJvVN
+1524419227813	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1524419227843	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57870
+1524419230858	Marionette	INFO	Listening on port 57870
+1524419283674	geckodriver	INFO	Listening on 127.0.0.1:59394
+1524419284617	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.qedYfsxLsS56
+1524419284621	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1524419284650	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59401
+1524419288419	Marionette	INFO	Listening on port 59401
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1525016548842	geckodriver	INFO	Listening on 127.0.0.1:51544
+1525016549845	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.rdk1mEgUepOX
+1525016549849	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1525016549879	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51550
+1525016552142	Marionette	INFO	Listening on port 51550
+1525016600748	geckodriver	INFO	Listening on 127.0.0.1:53028
+1525016601669	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.VZJy1P3rjsfG
+1525016601671	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1525016601675	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53034
+1525016602876	Marionette	INFO	Listening on port 53034
+[Child 30971] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 30971] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1525016740814	geckodriver	INFO	Listening on 127.0.0.1:53060
+1525016741786	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.FhuXq2AB9ZXt
+1525016741790	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1525016741822	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53066
+1525016743267	Marionette	INFO	Listening on port 53066
+1525016757317	geckodriver	INFO	Listening on 127.0.0.1:53113
+1525016758262	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.EVHlP8IT2Kfw
+1525016758284	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1525016758287	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53129
+1525016759023	Marionette	INFO	Listening on port 53129
+1525016805632	geckodriver	INFO	Listening on 127.0.0.1:54594
+1525016806533	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.hxr94ahOjFxl
+1525016806536	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1525016806600	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54602
+[Child 31075] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 31075] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1525016838585	geckodriver	INFO	Listening on 127.0.0.1:54634
+1525016839550	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.y7GbWMYY0Sy3
+1525016839553	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1525016839556	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54640
+1525016840608	Marionette	INFO	Listening on port 54640
+1525016886410	geckodriver	INFO	Listening on 127.0.0.1:56098
+1525016887308	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.BAPiUC53oFo2
+1525016887311	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1525016887388	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56104
+[Child 31105] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 31105] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1525017650129	geckodriver	INFO	Listening on 127.0.0.1:56158
+1525017651103	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.QBFz4Nc4mSLJ
+1525017651107	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1525017651137	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56164
+1525017653344	Marionette	INFO	Listening on port 56164
+1525017741465	geckodriver	INFO	Listening on 127.0.0.1:57659
+1525017742392	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.0GVcMP0O6UiP
+1525017742394	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1525017742426	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57665
+1525017744459	Marionette	INFO	Listening on port 57665
+1525017792443	geckodriver	INFO	Listening on 127.0.0.1:59146
+1525017793376	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.4RT1axumJ3O7
+1525017793381	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1525017793411	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59152
+[Child 31180] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 31180] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1525114736336	geckodriver	INFO	Listening on 127.0.0.1:64960
+1525114737330	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.snvHCWC57Zbw
+1525114737334	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1525114737364	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64966
+1525114742197	Marionette	INFO	Listening on port 64966
+[Child 31777] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 31777] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1525114919562	geckodriver	INFO	Listening on 127.0.0.1:50115
+1525114920508	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.nji3dPqnzQpk
+1525114920510	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1525114920531	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50121
+1525114923578	Marionette	INFO	Listening on port 50121
+1525114970225	geckodriver	INFO	Listening on 127.0.0.1:51661
+1525114971187	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.DV7FubigQdqa
+1525114971191	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1525114971237	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51667
+[Child 31799] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 31799] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528492347656	geckodriver	INFO	Listening on 127.0.0.1:55074
+1528492348532	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.524mE3WezwwA
+1528492348535	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528492348555	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55081
+1528492351767	Marionette	INFO	Listening on port 55081
+1528492437084	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 6795] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6795] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528492614713	geckodriver	INFO	Listening on 127.0.0.1:58643
+1528492615666	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.8cNc7dBYPWS3
+1528492615670	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528492615698	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58650
+1528492618151	Marionette	INFO	Listening on port 58650
+1528492819930	geckodriver	INFO	Listening on 127.0.0.1:59177
+1528492820878	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.2ZpQw53Qh6S1
+1528492820883	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528492820912	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59187
+1528492824039	Marionette	INFO	Listening on port 59187
+[Child 6891] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6891] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528493378735	geckodriver	INFO	Listening on 127.0.0.1:60505
+1528493379708	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.RDQqg8JKbKKC
+1528493379712	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528493379734	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60517
+1528493382774	Marionette	INFO	Listening on port 60517
+JavaScript error: , line 0: uncaught exception: undefined
+1528493471981	geckodriver	INFO	Listening on 127.0.0.1:61144
+1528493472911	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.zwmjFMwaW2er
+1528493472914	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528493472945	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61159
+1528493475602	Marionette	INFO	Listening on port 61159
+1528493512483	geckodriver	INFO	Listening on 127.0.0.1:61441
+1528493513370	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.jE5oQBbawvdK
+1528493513373	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528493513427	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61454
+1528493515741	Marionette	INFO	Listening on port 61454
+1528493575695	geckodriver	INFO	Listening on 127.0.0.1:61879
+1528493576623	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.pOAaVn7w4sOS
+1528493576628	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528493576658	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61893
+1528493579657	Marionette	INFO	Listening on port 61893
+1528493581057	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: https://adserver.adtechus.com/addyn|3.0|5310.1|2034757|0|225|ADTECH;target=_blank;cookie=info;kve=0;kvv=0;kvz=null;key=construction;kvi=US_CO;kvh=0;kvr=0;kvm=0;kvc=0;kvb=12;grp=88656157;adiframe=y, line 23: ReferenceError: AdvJstag is not defined
+JavaScript error: https://adserver.adtechus.com/addyn|3.0|5310.1|1403936|0|225|ADTECH;target=_blank;cookie=info;kve=0;kvv=0;kvz=null;key=construction;kvi=US_CO;kvh=0;kvr=0;kvm=0;kvc=0;kvb=12;grp=33257181;adiframe=y, line 23: ReferenceError: AdvJstag is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528494509540	geckodriver	INFO	Listening on 127.0.0.1:49492
+1528494510523	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.uDiHrJvIYldX
+1528494510525	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528494510546	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49503
+1528494513669	Marionette	INFO	Listening on port 49503
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528494649231	geckodriver	INFO	Listening on 127.0.0.1:49915
+1528494650173	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.zm8M8bc35Z8m
+1528494650177	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528494650208	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49924
+1528494653301	Marionette	INFO	Listening on port 49924
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528494722276	geckodriver	INFO	Listening on 127.0.0.1:50216
+1528494723171	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.vZD3zthB7LqT
+1528494723176	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528494723206	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50225
+1528494726698	Marionette	INFO	Listening on port 50225
+JavaScript error: , line 0: uncaught exception: undefined
+1528494901103	geckodriver	INFO	Listening on 127.0.0.1:50620
+1528494902048	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.NbIVxdY18XGy
+1528494902051	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528494902082	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50629
+1528494905175	Marionette	INFO	Listening on port 50629
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528495176310	geckodriver	INFO	Listening on 127.0.0.1:51149
+1528495177259	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.J9hTbiq97uQS
+1528495177264	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528495177293	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51158
+1528495180660	Marionette	INFO	Listening on port 51158
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528571329686	geckodriver	INFO	Listening on 127.0.0.1:51465
+1528571330652	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.Fz4RAdGfSmYX
+1528571330656	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528571330687	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51472
+1528571335803	Marionette	INFO	Listening on port 51472
+[Child 7446] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7446] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528574743925	geckodriver	INFO	Listening on 127.0.0.1:62426
+1528574744801	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.XwwHHOnZ6iu2
+1528574744878	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528574744906	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62433
+1528574750643	Marionette	INFO	Listening on port 62433
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0045,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+1528586880697	geckodriver	INFO	Listening on 127.0.0.1:63190
+1528586881645	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.pqDbEq9MtFDS
+1528586881648	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528586881744	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63197
+1528586884955	Marionette	INFO	Listening on port 63197
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7796] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7796] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528590429450	geckodriver	INFO	Listening on 127.0.0.1:51256
+1528590430452	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.ZLKVaN21n6Ar
+1528590430456	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528590430494	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51263
+1528590434763	Marionette	INFO	Listening on port 51263
+1528590465542	geckodriver	INFO	Listening on 127.0.0.1:51926
+1528590466435	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.Aqzma4nR1QoD
+1528590466440	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528590466457	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51933
+1528590469907	Marionette	INFO	Listening on port 51933
+[Child 7838] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7838] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1528650390651	geckodriver	INFO	Listening on 127.0.0.1:60165
+1528650391264	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.AWilcQEok1Gi
+1528650391266	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528650391329	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60172
+1528650400761	Marionette	INFO	Listening on port 60172
+[Child 8224] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8224] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528653839497	geckodriver	INFO	Listening on 127.0.0.1:64993
+1528653840407	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.l8cXhr2RYPmP
+1528653840411	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528653840439	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65000
+1528653842847	Marionette	INFO	Listening on port 65000
+1528653860529	geckodriver	INFO	Listening on 127.0.0.1:49244
+1528653861463	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.NeJG9GOPLXew
+1528653861466	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528653861469	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49251
+1528653862665	Marionette	INFO	Listening on port 49251
+[Child 8371] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8371] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1528654737299	geckodriver	INFO	Listening on 127.0.0.1:55788
+1528654738271	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.HW7qAZzs6qv3
+1528654738275	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528654738304	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55799
+1528654740768	Marionette	INFO	Listening on port 55799
+1528655110017	geckodriver	INFO	Listening on 127.0.0.1:56859
+1528655110983	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.v8uTf6ZX2iG3
+1528655110987	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528655110991	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56872
+1528655113229	Marionette	INFO	Listening on port 56872
+[Child 8479] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8479] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528655179854	geckodriver	INFO	Listening on 127.0.0.1:57259
+1528655180777	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.cAjNHjWpmAOR
+1528655180779	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528655180782	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57271
+1528655181657	Marionette	INFO	Listening on port 57271
+[Child 8492] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8492] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1528655481524	geckodriver	INFO	Listening on 127.0.0.1:58820
+1528655482447	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.q5ze6ZcC8v4p
+1528655482450	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528655482454	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58832
+1528655484801	Marionette	INFO	Listening on port 58832
+[Child 8506] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8506] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528655878701	geckodriver	INFO	Listening on 127.0.0.1:61006
+1528655879550	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.cac2AxlQmIuV
+1528655879552	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528655879555	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61018
+1528655881836	Marionette	INFO	Listening on port 61018
+[Child 8519] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8519] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528655977591	geckodriver	INFO	Listening on 127.0.0.1:61703
+1528655978503	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.Uu7ynyV7Payc
+1528655978562	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528655978565	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61716
+1528655980831	Marionette	INFO	Listening on port 61716
+[Child 8532] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8532] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528657151001	geckodriver	INFO	Listening on 127.0.0.1:50624
+1528657151964	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.ZNI2AFMaKVho
+1528657151967	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528657151998	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50636
+1528657155090	Marionette	INFO	Listening on port 50636
+[Child 8558] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8558] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528657198851	geckodriver	INFO	Listening on 127.0.0.1:51218
+1528657199710	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.9DsxIjis1HDl
+1528657199713	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528657199717	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51232
+1528657202093	Marionette	INFO	Listening on port 51232
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528657442388	geckodriver	INFO	Listening on 127.0.0.1:52553
+1528657443359	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.JS7yXLKkmnHB
+1528657443364	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528657443390	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52565
+1528657446766	Marionette	INFO	Listening on port 52565
+[Child 8586] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8586] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528657774916	geckodriver	INFO	Listening on 127.0.0.1:54295
+1528657775872	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.zrwLDE0l5nNl
+1528657775876	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528657775898	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54304
+1528657779234	Marionette	INFO	Listening on port 54304
+[Child 8600] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8600] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528657895694	geckodriver	INFO	Listening on 127.0.0.1:55193
+1528657896606	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.t90ee3tYyYjv
+1528657896609	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528657896613	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55206
+1528657898939	Marionette	INFO	Listening on port 55206
+[Child 8614] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8614] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1528657985641	geckodriver	INFO	Listening on 127.0.0.1:56018
+1528657986547	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.IoH3U0rhCjly
+1528657986550	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528657986553	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56031
+1528657988881	Marionette	INFO	Listening on port 56031
+[Child 8627] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8627] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528658184001	geckodriver	INFO	Listening on 127.0.0.1:57273
+1528658184925	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.v8yYtQREqTtX
+1528658184929	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528658184934	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57285
+1528658187947	Marionette	INFO	Listening on port 57285
+[Child 8642] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8642] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528658220511	geckodriver	INFO	Listening on 127.0.0.1:57790
+1528658221424	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.CGwbQBCO1Tjt
+1528658221427	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528658221431	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57799
+1528658223947	Marionette	INFO	Listening on port 57799
+[Child 8655] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8655] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528658279680	geckodriver	INFO	Listening on 127.0.0.1:58233
+1528658280589	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.DvAM4AO5P76A
+1528658280594	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528658280598	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58240
+1528658282854	Marionette	INFO	Listening on port 58240
+[Child 8667] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8667] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528658339081	geckodriver	INFO	Listening on 127.0.0.1:58726
+1528658339994	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.mxEe3CteTVz4
+1528658339997	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528658340000	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58735
+1528658341388	Marionette	INFO	Listening on port 58735
+[Child 8680] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8680] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528658501038	geckodriver	INFO	Listening on 127.0.0.1:62825
+1528658501980	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.YbeRFWbD4k0q
+1528658501983	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528658502011	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62835
+1528658505304	Marionette	INFO	Listening on port 62835
+[Child 8700] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8700] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528658653552	geckodriver	INFO	Listening on 127.0.0.1:49269
+1528658654531	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.fxfKZon5jfqu
+1528658654534	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528658654563	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49276
+1528658658387	Marionette	INFO	Listening on port 49276
+[Child 8840] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8840] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528672245248	geckodriver	INFO	Listening on 127.0.0.1:54463
+1528672246230	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.v7O6nouzrgec
+1528672246234	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528672246261	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54470
+1528672249533	Marionette	INFO	Listening on port 54470
+1528672365230	geckodriver	INFO	Listening on 127.0.0.1:54748
+1528672366198	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.Nf4SMHnzYuwX
+1528672366203	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528672366230	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54755
+1528672369758	Marionette	INFO	Listening on port 54755
+1528672413892	geckodriver	INFO	Listening on 127.0.0.1:54992
+1528672414844	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.S5FEecILnSS1
+1528672414848	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528672414869	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55000
+1528672418230	Marionette	INFO	Listening on port 55000
+[Child 9125] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9125] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528672666640	geckodriver	INFO	Listening on 127.0.0.1:55650
+1528672667550	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.5AhVp9RK9CIH
+1528672667553	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528672667559	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55661
+1528672669702	Marionette	INFO	Listening on port 55661
+[Child 9142] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9142] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528672743667	geckodriver	INFO	Listening on 127.0.0.1:56102
+1528672744606	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.809Da26MPye9
+1528672744610	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528672744616	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56113
+1528672745351	Marionette	INFO	Listening on port 56113
+[Child 9155] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9155] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528672881157	geckodriver	INFO	Listening on 127.0.0.1:56879
+1528672882082	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.Oa2fJLRjdJTz
+1528672882085	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528672882089	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56890
+1528672882882	Marionette	INFO	Listening on port 56890
+[Child 9168] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9168] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528673064128	geckodriver	INFO	Listening on 127.0.0.1:57959
+1528673065062	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.LIcYHJVajUAT
+1528673065065	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528673065070	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57970
+1528673065809	Marionette	INFO	Listening on port 57970
+[Child 9181] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9181] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528673235180	geckodriver	INFO	Listening on 127.0.0.1:59027
+1528673236118	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.YXLG31llpcw4
+1528673236121	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528673236190	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59038
+1528673237521	Marionette	INFO	Listening on port 59038
+[Child 9197] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9197] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528673358379	geckodriver	INFO	Listening on 127.0.0.1:59904
+1528673359329	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.HqG8Sh8QL8Zx
+1528673359333	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528673359359	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59915
+1528673362909	Marionette	INFO	Listening on port 59915
+[Child 9224] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 9224] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 9224] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 9224] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9224] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528673531338	geckodriver	INFO	Listening on 127.0.0.1:60877
+1528673532333	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.14AbOScCnA3w
+1528673532338	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528673532394	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60888
+1528673536846	Marionette	INFO	Listening on port 60888
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
+JavaScript error: https://slack.sp1.convertro.com/view/vt/v1/slack/0/cvo.gif?cvosrc=display.quantcast.aud_quantcast_click&utm_source=quantcast&utm_medium=display&utm_content=315950130&utm_campaign=wwh, line 1: SyntaxError: illegal character
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://bonobos.sp1.convertro.com/view/vt/v1/bonobos/0/cvo.gif?cvosrc=Display.Quantcast.Quantcast_Prospecting_Static_June_Swim_June_2018_June_2018&gdpr=&gdpr_consent=, line 1: SyntaxError: illegal character
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: https://servedby.flashtalking.com/imp/8/93602;3182054;201;pixel;DCMN;AllotherEMEA/?ft_custom=221228862_419571799_101540858&cachebuster=1626503839, line 1: SyntaxError: illegal character
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: https://pixel.quantserve.com/pixel/p--WJPw3YupBR2s.gif?media=ad&labels=_imp.adserver.doubleclick,_imp.campaign.7247207,_imp.publisher.1572067,_imp.placement.219072121,_imp.adid.417626747,_imp.creative.96920080, line 1: SyntaxError: illegal character
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: https://tag.researchnow.com/t/beacon?adn=4&ca=242331&cr=102290321&ord=12445&pl=12309-242331-30501-5&pr=12161&si=30501, line 1: SyntaxError: illegal character
+JavaScript error: https://t.myvisualiq.net/sync?prid=Test&ao=519&vndr=117&red=https%3A%2F%2Fadfarm.mediaplex.com%2Fad%2Fim%2F13044-85265-63530-0%3Fmpaltsys%3D46%26mpalt%3D%24%7BUUID%7D, line 1: SyntaxError: illegal character
+JavaScript error: https://tapestry.tapad.com/tapestry/1?ta_partner_id=950&ta_redirect=https%3A%2F%2Ft.myvisualiq.net%2Fsync%3Fprid%3D1001%26ao%3D0%26pruuid%3DTAPAD_%24%7BIDS%3Akey%7D, line 1: SyntaxError: illegal character
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.91.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://dco-assets.everestads.net/ics-campaign///ad-templates/global/jquery-2.0.3_edge.4.0.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 9266] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 9266] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9266] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528772855698	geckodriver	INFO	Listening on 127.0.0.1:55079
+1528772856685	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.ASQC0b4Puas5
+1528772856687	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528772856723	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55090
+1528772862812	Marionette	INFO	Listening on port 55090
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528773322054	geckodriver	INFO	Listening on 127.0.0.1:60589
+1528773323015	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.BTSh6AIUpGRZ
+1528773323018	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528773323049	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60600
+1528773327709	Marionette	INFO	Listening on port 60600
+JavaScript error: , line 0: uncaught exception: undefined
+[Child 9595] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9595] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528773711755	geckodriver	INFO	Listening on 127.0.0.1:64379
+1528773712706	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.mHk00PQDpwG4
+1528773712710	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528773712739	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64389
+1528773715741	Marionette	INFO	Listening on port 64389
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528773949700	geckodriver	INFO	Listening on 127.0.0.1:65342
+1528773950667	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.ebUGbKYnXbXf
+1528773950671	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528773950746	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65352
+1528773953118	Marionette	INFO	Listening on port 65352
+JavaScript error: , line 0: uncaught exception: undefined
+[Child 9667] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9667] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528774166222	geckodriver	INFO	Listening on 127.0.0.1:50105
+1528774167087	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.zAlM96uTJkLw
+1528774167090	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528774167121	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50115
+1528774169525	Marionette	INFO	Listening on port 50115
+JavaScript error: , line 0: uncaught exception: undefined
+[Child 9693] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9693] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528774233369	geckodriver	INFO	Listening on 127.0.0.1:50921
+1528774234313	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.rtU70CZoZASU
+1528774234316	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528774234365	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50931
+1528774235092	Marionette	INFO	Listening on port 50931
+JavaScript error: , line 0: uncaught exception: undefined
+[Child 9712] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9712] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528774300821	geckodriver	INFO	Listening on 127.0.0.1:51601
+1528774301678	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.P7GjkxSrwfnl
+1528774301681	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528774301684	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51611
+1528774304059	Marionette	INFO	Listening on port 51611
+JavaScript error: , line 0: uncaught exception: undefined
+[Child 9730] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9730] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528774396601	geckodriver	INFO	Listening on 127.0.0.1:51908
+1528774397520	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.vSbdwSeLgj9s
+1528774397524	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528774397527	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51918
+1528774399817	Marionette	INFO	Listening on port 51918
+JavaScript error: , line 0: uncaught exception: undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9748] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9748] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528774536089	geckodriver	INFO	Listening on 127.0.0.1:52687
+1528774537060	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.qsPF2JtPgu4L
+1528774537063	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528774537082	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52697
+1528774539765	Marionette	INFO	Listening on port 52697
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+[Child 9765] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9765] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528774622277	geckodriver	INFO	Listening on 127.0.0.1:53342
+1528774623142	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.93VVL2248YAQ
+1528774623144	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528774623148	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53348
+1528774625193	Marionette	INFO	Listening on port 53348
+JavaScript error: , line 0: uncaught exception: undefined
+[Child 9782] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9782] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528774774581	geckodriver	INFO	Listening on 127.0.0.1:54250
+1528774775501	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.OWcLHInQ3Qgj
+1528774775504	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528774775538	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54260
+1528774777567	Marionette	INFO	Listening on port 54260
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: , line 0: uncaught exception: undefined
+[Child 9809] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9809] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1528774876012	geckodriver	INFO	Listening on 127.0.0.1:54945
+1528774876974	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.H4FhfMZtIInJ
+1528774876976	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528774876979	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54951
+1528774879474	Marionette	INFO	Listening on port 54951
+JavaScript error: , line 0: uncaught exception: undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9832] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 9832] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 9832] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9832] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1528841098064	geckodriver	INFO	Listening on 127.0.0.1:49286
+1528841098732	mozprofile::profile	INFO	Using profile path /var/folders/gv/r6c0dtzn72v8j460j_7xwl1c0000gn/T/rust_mozprofile.iO7mYqjTjUfU
+1528841098737	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1528841098831	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49295
+1528841102152	Marionette	INFO	Listening on port 49295
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function

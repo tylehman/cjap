@@ -15,7 +15,19 @@ class Indeed():
                 'https://www.indeed.com/jobs?q=restaurant&l=Denver%2C+CO&radius=100&sort=',
                 'https://www.indeed.com/jobs?q=restaurant&l=Fort+Collins%2C+CO&radius=100&sort=',
                 'https://www.indeed.com/jobs?q=food+service&l=Fort+Collins%2C+CO&radius=100&sort=',
-                'https://www.indeed.com/jobs?q=food+service&l=Denver%2C+CO&radius=100&sort='
+                'https://www.indeed.com/jobs?q=food+service&l=Denver%2C+CO&radius=100&sort=',
+                'https://www.indeed.com/jobs?q=warehouse&l=Denver%2C+CO&radius=100&sort=',
+                'https://www.indeed.com/jobs?q=disability&l=Denver%2C+CO&radius=100&sort=',
+                'https://www.indeed.com/jobs?q=blind&l=Denver%2C+CO&radius=100&sort=',
+                'https://www.indeed.com/jobs?q=manufact&l=Denver%2C+CO&radius=100&sort=',
+                'https://www.indeed.com/jobs?q=trade&l=Denver%2C+CO&radius=100&sort=',
+                'https://www.indeed.com/jobs?q=utilit&l=Denver%2C+CO&radius=100&sort=',
+                'https://www.indeed.com/jobs?q=retail&l=Denver%2C+CO&radius=100&sort=',
+                'https://www.indeed.com/jobs?q=clean&l=Denver%2C+CO&radius=100&sort=',
+                'https://www.indeed.com/jobs?q=customerl&l=Denver%2C+CO&radius=100&sort=',
+                'https://www.indeed.com/jobs?q=non+profit&l=Denver%2C+CO&radius=100&sort=',
+                'https://www.indeed.com/jobs?q=government&l=Denver%2C+CO&radius=100&sort=',
+                'https://www.indeed.com/jobs?q=maintenance&l=Denver%2C+CO&radius=100&sort=',
                 ]
     sort_by = 'date'  # sort by date
     start_from = '&start='  # start page number

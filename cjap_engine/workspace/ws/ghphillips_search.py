@@ -39,8 +39,9 @@ class GhPhillips():
                         'job_posted': job_posted,
                         'job_srch': job_srch
                         }, ignore_index=True)
-
+    driver.quit()
     end = time.time()
+    
     # print "GH Phillips = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')
 #
 # ghclass = GhPhillips

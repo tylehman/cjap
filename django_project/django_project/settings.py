@@ -157,7 +157,8 @@ MEDIA_URL = "/site_media/media/"
 # Don"t put anything in this directory yourself; store your static files
 # in apps" "static/" subdirectories and in STATICFILES_DIRS.
 # Example: "/home/media/media.lawrence.com/static/"
-STATIC_ROOT = '/home/django/django_project/django_project/static'
+# STATIC_ROOT = '/Users/tylehman/desktop/cjap_vm/django/cjap/django_project/django_project/static/about'
+STATIC_ROOT = os.path.dirname(os.path.realpath(__file__))
 
 # URL prefix for static files.
 # Example: "http://media.lawrence.com/static/"

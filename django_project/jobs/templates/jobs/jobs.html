@@ -5,76 +5,86 @@
 {% block content %}
 <div class="container-fluid" style="min-height:95%; top:50">
   <main>
-    <section class="jumbotron" style="bottom:50px; background-image: url('{% static "about/img/jade.jpg" %}');  background-size:  cover;">
+    <section class="jumbotron" style="bottom:50px; background-image: url('{% static "about/img/jade.jpg" %}');">
       <div class="container">
         <center>
-          <h1 class="hed" style="text-align: center;">Colorado Job List</h1>
+          <h1 class="hed" style="text-align: center;">Data Dashboard</h1>
         </center>
       </div>
     </section>
-    <div class="row">
-      <div class="container-fluid">
+      <div class="container-fluid" style="min-height:95%; top:50">
         <h2 class='well' style="background: radial-gradient(circle, rgba(153, 204, 255, 0.5), rgba(75, 232, 238, 0.8))">
-          Available Jobs | <small class='black_font'> Clicking on the Job will display more info! </small>
+          Job Data| <small class='black_font'> Listed below are metrics to assist with finding the right job. </small>
         </h2>
       </div>
-    </div>
-    {% endblock %}
-
-    {% block table %}
-    <div>
-    <table  class='table table-striped' class='board' class="table table-hover">
-      <tr>
-        <th class='bolding'> Job Title </th>
-        <th class='bolding'> Company </th>
-      </tr>
-      {% for job in jobs %}
-        <tr>
-          <th>
-            <div class="well" style="color:#fff; background-color:#97e6f5">
-                <a href= "/jobs/{{job.id}}" style="text-align: left">
-                  {{job.job_title}}
-                </a>
-            </div>
-                {{job.job_addr}}
-          </th>
-          <th>
-            <div class="well" style="color:#fff; background-color:#0e7d93">
-                {{job.comp_name}}
-            </div>
-            <div>
-              {{job.job_posted}} = posted date.
-            </div>
-          </th>
-        {% endfor %}
-      </tr>
-    </table>
-    </div>
-
-    {% if is_paginated %}
-      <ul class="pagination">
-        {% if page_obj.has_previous %}
-          <li><a href="?page={{ page_obj.previous_page_number }}">&laquo;</a></li>
-        {% else %}
-          <li class="disabled"><span>&laquo;</span></li>
-        {% endif %}
-        {% for i in paginator.page_range %}
-          {% if page_obj.number == i %}
-            <li class="active"><span>{{ i }} <span class="sr-only">(current)</span></span></li>
-          {% else %}
-            <li><a href="?page={{ i }}">{{ i }}</a></li>
-          {% endif %}
-        {% endfor %}
-        {% if page_obj.has_next %}
-          <li><a href="?page={{ page_obj.next_page_number }}">&raquo;</a></li>
-        {% else %}
-          <li class="disabled"><span>&raquo;</span></li>
-        {% endif %}
-      </ul>
-    {% endif %}
-
-
+      <div class="container-fluid" style="min-height:95%; top:50">
+        <div class="well">
+          <div class="row">
+          <div class="col-sm-6">
+            <h2 class='well'>These are the most Popular Job Types</h2>
+            <img src="{% static 'about/img/job_type_graph.jpg' %}" class="img-fluid" alt="Responsive image" style="max-width:500px;">
+          </div>
+          <div class="col-sm-6">
+            <h2 class='well'>Number of Jobs over the Past Week</h2>
+            <img src="{% static 'about/img/job_count_graph.jpg' %}" class="img-fluid" alt="Responsive image" style="max-width:500px;">
+          </div>
+        </div>
+        </div>
+        <div class="well">
+        </div>
+      </div>
   </main>
 </div>
 
 {% endblock %}
+
+<!--<div>-->
+<!--<table  class='table table-striped' class='board' class="table table-hover">-->
+  <!--<tr>-->
+    <!--<th class='bolding'> Job Title </th>-->
+    <!--<th class='bolding'> Company </th>-->
+  <!--</tr>-->
+  <!--{% for job in jobs %}-->
+    <!--<tr>-->
+      <!--<th>-->
+        <!--<div class="well" style="color:#fff; background-color:#97e6f5">-->
+            <!--<a href= "/jobs/{{job.id}}" style="text-align: left">-->
+              <!--{{job.job_title}}-->
+            <!--</a>-->
+        <!--</div>-->
+            <!--{{job.job_addr}}-->
+      <!--</th>-->
+      <!--<th>-->
+        <!--<div class="well" style="color:#fff; background-color:#0e7d93">-->
+            <!--{{job.comp_name}}-->
+        <!--</div>-->
+        <!--<div>-->
+          <!--{{job.job_posted}} = posted date.-->
+        <!--</div>-->
+      <!--</th>-->
+    <!--{% endfor %}-->
+  <!--</tr>-->
+<!--</table>-->
+<!--</div>-->
+
+<!--{% if is_paginated %}-->
+  <!--<ul class="pagination">-->
+    <!--{% if page_obj.has_previous %}-->
+      <!--<li><a href="?page={{ page_obj.previous_page_number }}">&laquo;</a></li>-->
+    <!--{% else %}-->
+      <!--<li class="disabled"><span>&laquo;</span></li>-->
+    <!--{% endif %}-->
+    <!--{% for i in paginator.page_range %}-->
+      <!--{% if page_obj.number == i %}-->
+        <!--<li class="active"><span>{{ i }} <span class="sr-only">(current)</span></span></li>-->
+      <!--{% else %}-->
+        <!--<li><a href="?page={{ i }}">{{ i }}</a></li>-->
+      <!--{% endif %}-->
+    <!--{% endfor %}-->
+    <!--{% if page_obj.has_next %}-->
+      <!--<li><a href="?page={{ page_obj.next_page_number }}">&raquo;</a></li>-->
+    <!--{% else %}-->
+      <!--<li class="disabled"><span>&raquo;</span></li>-->
+    <!--{% endif %}-->
+  <!--</ul>-->
+<!--{% endif %}-->

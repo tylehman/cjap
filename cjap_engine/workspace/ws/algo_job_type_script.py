@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import re
 
 # Read in pulled and formatted data
@@ -42,8 +41,7 @@ job_types = {
     (r'(system)', 'Systems/Software'), 
     (r'(programmer)','Systems/Software'),
     (r'(mobile)', 'Systems/Software'),
-    (r'(developer)', 'Systems/Software'), 
-    (r'(develop)', 'Systems/Software'),     
+    (r'(develop)', 'Systems/Software'),
     (r'(software)', 'Systems/Software'), 
         
     (r'(equip)', 'Manufacturing'),     
@@ -51,8 +49,7 @@ job_types = {
     (r'(Build)', 'Manufacturing'), 
     (r'(fabricat)', 'Manufacturing'), 
     (r'(machin)', 'Manufacturing'), 
-    (r'(assemb)','Manufacturing'),
-    (r'(foreman)', 'Manufacturing'), 
+    (r'(foreman)', 'Manufacturing'),
     (r'(operator)', 'Manufacturing'), 
     (r'(handler)', 'Manufacturing'), 
     (r'(installer)', 'Manufacturing'), 
@@ -80,8 +77,7 @@ job_types = {
     (r'(project)', 'Business'), 
     (r'(quality)', 'Business'), 
     (r'(teller)', 'Business'), 
-    (r'(human rec)', 'Business'), 
-    (r'(scheduler)', 'Business'), 
+    (r'(scheduler)', 'Business'),
     (r'(Business*.operation)', 'Business'), 
     
     (r'(diesel)', 'Auto'),         
@@ -131,8 +127,7 @@ job_types = {
     (r'(chef)', 'Restaurant/Bar'), 
     (r'(Cocinero)', 'Restaurant/Bar'), 
     (r'(cook)', 'Restaurant/Bar'), 
-    (r'(Concessionist)', 'Restaurant/Bar'), 
-    (r'(Culinary)', 'Restaurant/Bar'), 
+    (r'(Culinary)', 'Restaurant/Bar'),
     (r'(Concierge)', 'Restaurant/Bar'), 
     (r'(Deli )', 'Restaurant/Bar'), 
     (r'(Delivery Driver)', 'Restaurant/Bar'), 
@@ -309,7 +304,7 @@ job_types = {
 #    (r'(partner)', 'partner'),     
 }
 
-# Scan each item in the list for the regex expression
+# Scan each item in the list for a match to the regex expression
 # If a given job type is found, put the Job Type. 
 # Else print "Other"
 

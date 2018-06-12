@@ -4,8 +4,8 @@ import datetime
 from dateutil import parser
 
 df = pd.read_csv('/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/raw.csv')
-
-df = df.replace({r' - ': '', r'(\[)': '', r']': ''}, regex=True)
+df = df.replace({r' -': '', r'(\[)': '', r']': ''}, regex=True)
+# df = df.replace({r'^[^a-zA-z]*': '', r' -': '', r'(\[)': '', r']': ''}, regex=True)
 
 def dateStd(df):
     today = datetime.date.today()
@@ -73,11 +73,11 @@ def dateStd(df):
     day30 = today - thirty_day
     day31 = today - thirtyone_day
 
-    df = df.replace({'null' : day31,
-                     'Today' : today,
-                     'today' : today,
-                     'Just posted' : today,
-                     'Posted today' : today,
+    df = df.replace({'null': day31,
+                     'Today': today,
+                     'today': today,
+                     'Just posted': today,
+                     'Posted today': today,
                      '1 day ago': day1,
                      '2 days ago': day2,
                      '3 days ago': day3,
@@ -132,17 +132,16 @@ def dateStd(df):
     return df
 
 df = dateStd(df)
+# print df
 
 df['job_posted'] = pd.to_datetime(df['job_posted'], yearfirst=True, errors='coerce', infer_datetime_format=True)
 
 df = df.replace({r'(AM)$': r' '}, regex=True)
-
-
+# print df['job_posted']
 
 def remove_dup():
     df_fin = df.drop_duplicates()
     return df_fin
-
 
 with pd.ExcelWriter('/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/formated_data1.xlsx') as writer:
     remove_dup().to_excel(writer, sheet_name='Raw Data')
@@ -150,9 +149,8 @@ with pd.ExcelWriter('/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_
 
 df1 = pd.read_excel('/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/formated_data1.xlsx')
 df1.to_csv('/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/formated_data1.csv', encoding='utf-8')
-
-
 df.to_csv('/Users/tylehman/Desktop/cjap_vm/django/cjap/cjap_engine/js_data/formated_data.csv', encoding='utf-8')
-print df
-end = time.time()
-print "end = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')
+
+# print df
+# end = time.time()
+# print "end = ", datetime.datetime.fromtimestamp(end).strftime('%Y-%m-%d %H:%M:%S')

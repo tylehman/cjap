@@ -6,11 +6,9 @@
 
 
 {% block styles %}
-    <link href="{% static 'css/app.css' %}" rel="stylesheet">
     <link rel="stylesheet" href="{% static 'about/css/bootstrap.min.css' %}"type="text/css">
     <link rel="stylesheet" href="{% static 'about/css/cjap.css' %}" type="text/css">
     <meta name="viewport" content = "width=device-width, initial-scale=1.0">
-
 {% endblock %}
 
 
@@ -23,28 +21,28 @@
 <body class="body" style="background: radial-gradient(circle, rgba(14, 125, 147, 0.8), rgba(186, 238, 249, 0.9))">
  <div class="container-fluid" style="min-height:95%;">
     <nav class="navbar navbar-dark fixed-top bg-primary w3-theme-d3">
-        {% block topbar %}
+      {% block topbar %}
         {% block site_brand %}
-        <a role="button "class="btn btn-primary" href="{% url 'home' %}">CJAP</a>
+          <a role="button "class="btn btn-primary" href="{% url 'home' %}">CJAP</a>
+          {% endblock %}
+            {% block nav %}
+                    {% block nav_items %}
+                      {% comment %}
+                        <a class="nav-link" href="#tab_one">One</a>
+                        <a class="nav-link" href="#tab_two">Two</a>
+                        <a class="nav-link" href="#tab_three">Three</a>
+                        <a class="nav-link" href="#tab_three">Four</a>
+                      {% endcomment %}
+                    {% endblock %}
+            {% endblock %}
+            {% block account_bar %}
+              {% include "_account_bar.html" %}
+            {% endblock %}
+            {% block content %}
+            {% endblock %}
+            {% block table %}
         {% endblock %}
-                {% block nav %}
-                        {% block nav_items %}
-                        {% comment %}
-                          <a class="nav-link" href="#tab_one">One</a>
-                          <a class="nav-link" href="#tab_two">Two</a>
-                          <a class="nav-link" href="#tab_three">Three</a>
-                          <a class="nav-link" href="#tab_three">Four</a>
-                        {% endcomment %}
-                        {% endblock %}
-                {% endblock %}
-                {% block account_bar %}
-                {% include "_account_bar.html" %}
-                {% endblock %}
-                {% block content %}
-                {% endblock %}
-                {% block table %}
-                {% endblock %}
-        {% endblock %}
+      {% endblock %}
     </nav>
   </div>
 </body>
@@ -62,5 +60,6 @@
 
 {% block extra_body_base %}
     {% analytics %}
-    {% block extra_body %}{% endblock %}
+    {% block extra_body %}
+    {% endblock %}
 {% endblock %}
